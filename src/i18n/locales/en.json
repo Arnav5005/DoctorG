@@ -1,0 +1,64 @@
+
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit"
+  },
+  "header": {
+    "doctorLogin": "Doctor Login",
+    "patientLogin": "Patient Login",
+    "findDoctor": "Find a Doctor",
+    "joinAsDoctor": "Join as Doctor"
+  },
+  "hero": {
+    "title": "Healthcare at Your",
+    "titleHighlight": "Fingertips",
+    "subtitle": "Connect with verified doctors instantly. Book appointments, get consultations, and receive prescriptions - all from the comfort of your home.",
+    "badge": "🚀 India's Leading Telemedicine Platform"
+  },
+  "features": {
+    "videoConsultations": "HD Video Consultations",
+    "videoDesc": "Crystal clear video calls with doctors using WebRTC technology",
+    "easyBooking": "Easy Appointment Booking",
+    "bookingDesc": "Book appointments instantly with integrated Razorpay payments",
+    "securePrivate": "Secure & Private",
+    "secureDesc": "End-to-end encryption with MagicLink authentication"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "todayAppointments": "Today's Appointments",
+    "totalPatients": "Total Patients",
+    "thisMonth": "This Month",
+    "rating": "Rating",
+    "findDoctors": "Find Doctors",
+    "myAppointments": "My Appointments",
+    "consultationHistory": "Consultation History"
+  },
+  "profile": {
+    "manageAccount": "Manage My Account",
+    "help": "Help",
+    "settings": "Settings",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "language": "Language"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिंदी",
+    "ja": "日本語",
+    "zh": "中文",
+    "es": "Español"
+  }
+}

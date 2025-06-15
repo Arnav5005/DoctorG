@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DoctorG</title>
+    <meta name="description" content="Your trusted telemedicine platform for quality healthcare" />
+    <meta name="author" content="DoctorG" />
+
+    <meta property="og:title" content="DoctorG" />
+    <meta property="og:description" content="Your trusted telemedicine platform for quality healthcare" />
+    <meta property="og:type" content="website" />
+    
+   <!-- will complete this later 
+    use of this tag -
+    If someone shares your site on Facebook or WhatsApp
+    Without this tag:
+    It might pull in a random image from your site (or none at all).
+    With this tag:
+    It shows this exact image as a big banner in the link preview.
+    enter URL with a link to your own image that represents your brand/app (like a logo, UI preview, banner, etc.). made it on Canva or Figma
+
+    steps to make the banner - 
+    
+    1. The image is ideally 1200x630 px
+    2. Ideas for the image:
+            a. App name: DoctorG
+            b. Tagline: “Your Trusted Telemedicine Platform”
+            c. Some light UI screenshots (if available)
+            d. Soft medical colors (blue, green, white)
+            e. A logo or icon (optional)
+
+
+    In your React + Vite project, place the image in the public/ folder:
+
+          project-root/
+      ├── public/
+      │   └── social-preview.png
+      ├── src/
+      ├── index.html
+
+      and use the same image for twitter too
+    
+    <meta property="og:image" content="   " /> 
+    
+    -->
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@doctorg_care" />
+    
+    <!--  will complete this later
+    
+      It tells Twitter which image to show when someone shares your website link in a tweet.
+      Let’s say your site is https://doctorg.com.
+      when someone tweets your link like this:
+      “Check out this amazing health app: https://doctorg.com”
+      If you have the meta tag properly set:
+
+      steps to make the banner - 
+      
+      1. The image is ideally 1200x630 px
+      2. Ideas for the image:
+              a. App name: DoctorG
+              b. Tagline: “Your Trusted Telemedicine Platform”
+              c. Some light UI screenshots (if available)
+              d. Soft medical colors (blue, green, white)
+              e. A logo or icon (optional)
+      
+      <meta name="twitter:image" content="   " />
+      
+    -->
+    
+    <!-- Favicon matching DoctorG logo with proper encoding -->
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%232563eb;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%2310b981;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='16' cy='16' r='16' fill='url(%23grad)'/%3E%3Cg transform='translate(8,8)' fill='white' stroke='white' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='8' cy='4.5' r='1.5'/%3E%3Cpath d='m6.8 5.8-2.3 2.3'/%3E%3Ccircle cx='3' cy='9.5' r='1.5'/%3E%3Cpath d='M4.5 9.5h7'/%3E%3Ccircle cx='13' cy='9.5' r='1.5'/%3E%3Cpath d='m9.2 13.2 2.3-2.3'/%3E%3Ccircle cx='8' cy='14.5' r='1.5'/%3E%3C/g%3E%3C/svg%3E" type="image/svg+xml">
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
