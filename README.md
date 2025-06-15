@@ -1,6 +1,9 @@
-# DoctorG
+# 🩺 DoctorG
 
-A modern healthcare web application built using React, Vite, Tailwind CSS, and shadcn-ui.
+A **modern healthcare web application** built with **React**, **Vite**, **Tailwind CSS**, and **shadcn-ui**, designed to provide a seamless telemedicine experience.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built With](https://img.shields.io/badge/Built%20with-React%2C%20Vite%2C%20Tailwind-blue)
 
 ---
 
@@ -53,6 +56,9 @@ To contribute:
 
 Arnav pratap singh 
 
-## 📬 Feedback
+## 📬 Feedback and issues 
 
 If you find any bugs or have feature requests, feel free to open an issue.
+
+## 📄 License
+This project is licensed under the MIT License.
